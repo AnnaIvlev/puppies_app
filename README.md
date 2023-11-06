@@ -62,12 +62,6 @@ The API uses a SQLite database for data storage, with the following tables:
 - Post: Stores post information, including the user ID, image URL, text content, and date.
 - Like: Stores information about likes on posts, associating users and posts.
 
-### Testing
-To run tests and verify the functionality of the API, use the following command:
-
-```bash
-    python test.py
-```
 
 
 
