@@ -18,11 +18,11 @@ The Puppies API is a web-based application that allows users to share pictures o
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/puppies-api.git
+   https://github.com/AnnaIvlev/puppies_app.git
     ```
 2. Change to the project directory:
     ```bash
-    cd Puppies_app
+    cd puppies_app
     ```
 3. Create a virtual environment (optional but recommended):
     ```bash
